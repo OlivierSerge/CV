@@ -105,11 +105,11 @@ p{    width: 220px;}
         font-size: 30px;
     }   
     #leftPart{width: 215px;
+        height: 820px;
     padding-left: 30px;
-    margin-right: 50px;
-    
-    
+    margin-right: 50px;  
     }
+    #rightPart{height: 820px;}
     #underline{width: 150px;
     }
     img{
